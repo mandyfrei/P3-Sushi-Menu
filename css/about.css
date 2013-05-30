@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+	position: relative;
+	background: #333;
+	width: 940px;
+	height: 870px; 
+	margin:40px auto;
+}
+
+
+#About_bio {
+	margin-left: 75px;
+	margin-top: 20px;
+}
+
+/*Footer*/
+#about_footer {
+	width: 940px;
+	position: relative;
+	z-index: 1;
+	top: -99px;
+	left: 187px;	
+}
+
+/*------Bottom Navigation--------*/
+
+ul.BottomNav {
+	position: relative;
+	list-style: none;
+	top: 15px;
+	z-index: 2;
+	margin-left: 40px;
+}
+
+ul.BottomNav li {
+	float: left;
+	margin-left: 100px;
+	margin-bottom: -10px;
+
+}
+
+ul.BottomNav a {
+	color: #fff;
+	text-decoration: none;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	font-size: 15px;
+	-webkit-transition: opacity .5s ease-in-out;
+	-moz-transition: opacity .5s ease-in-out;
+	
+}
+
+
