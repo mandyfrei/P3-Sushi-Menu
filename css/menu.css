@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.photos {
+	margin-top: 50px;
+	margin-left: 31px;
+}
+
+.container {
+	height: 1600px;
+}
+
+.thumbnail {
+	border: #333;
+	margin-top: 30px;
+}
+
+.accordion-toggle {
+	margin-left: 18px;
+	font-size:	15px;
+	text-transform:	uppercase;
+	font-weight: 100px;
+	color: #fff;
+	text-decoration: none;
+}
+
+.accordion-toggle:hover {
+	color: #A4CD3E;
+	text-decoration: none;
+}
+
+p.span3 {
+	margin-left: 30px;
+	text-align: justify;
+}
+
+#myCollapsible {
+	border: none;
+}
+
+.accordion-group {
+	border: none;
+}
+
+.accordion-inner {
+	border: none;
+	margin-left: -10px;
+	
+}
+
+#price {
+	color: #A4CD3E;
+}
+
+span.fish {
+	color: orange;
+	margin-left: 30px;
+}
+
+span.spicy {
+	color: orangered;
+	margin-left: 30px;
+}
+
+
+/*Footer*/
+.footer {
+	width: 940px;
+	position: relative;
+	z-index: 1;
+	top: -100px;
+	left: 179px;	
+}
