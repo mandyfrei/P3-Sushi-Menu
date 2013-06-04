@@ -7,7 +7,7 @@
 }
 
 .container {
-	height: 1600px;
+	height: 1350px;
 }
 
 .thumbnail {
@@ -15,6 +15,14 @@
 	margin-top: 30px;
 }
 
+
+.icon-info-sign {
+	margin-left: -25px;
+}
+
+.icon-map-marker {
+	margin-left: -25px;
+}
 .accordion-toggle {
 	margin-left: 18px;
 	font-size:	15px;
@@ -68,6 +76,6 @@ span.spicy {
 	width: 940px;
 	position: relative;
 	z-index: 1;
-	top: -100px;
-	left: 179px;	
+	top: 24px;
+	left: -0px;	
 }

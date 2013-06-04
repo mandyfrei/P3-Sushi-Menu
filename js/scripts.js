@@ -7,5 +7,6 @@ $(document).ready(function() {
   $('#myCollapsible').collapse({
   parent: false
 })
+
   
 });	

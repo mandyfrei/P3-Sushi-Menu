@@ -16,12 +16,14 @@
 }
 
 /*Footer*/
-#about_footer {
+
+
+.footer {
 	width: 940px;
 	position: relative;
 	z-index: 1;
-	top: -99px;
-	left: 187px;	
+	margin-left: 20px;
+	margin-top: 80px;	
 }
 
 /*------Bottom Navigation--------*/

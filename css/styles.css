@@ -9,7 +9,7 @@
  */
 
 body {
-	background: url(../img/placemat_texture.jpg);
+	background: url(../img/gray.png);
 }
 
 .container {
@@ -78,7 +78,7 @@ ul.Nav a {
 ul.Nav a:hover {
 	Color: #E98924;
 	padding: 5px 5px;
-	border-radius: 5px;
+	border-radius: 5px;	
 }
 
 .span2.offset3 {
@@ -88,7 +88,6 @@ ul.Nav a:hover {
 .span2.offset1 {
 	margin-left: 65px;
 }
-
 
 /*Carousel*/
 
